@@ -65,3 +65,8 @@ li {
     background: black;
     margin-bottom: 50px;     
 }
+
+footer {
+    border-style: solid;
+    position: fixed;
+}
