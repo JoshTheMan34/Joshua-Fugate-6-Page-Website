@@ -4,6 +4,12 @@ body {
 h1 {
     font-family: Garamond;
     text-align: center;
+    font-size: 45px;
+}
+
+h2, h3{
+    font-family: Garamond;
+    font-size: 40px;
 }
 
 img {
@@ -11,6 +17,11 @@ img {
     width: 700px;
     border-width: 5px;
     text-align: center;
+}
+
+#index-image {
+    height: 400px;
+    width: auto;
 }
 
 iframe {
