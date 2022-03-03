@@ -68,5 +68,8 @@ li {
 
 footer {
     border-style: solid;
-    position: fixed;
+}
+
+#footer-center {
+    text-align: center;
 }
